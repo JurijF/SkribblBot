@@ -1,8 +1,8 @@
-C:\Users\Juri\source\repos\ScribbleBot\ScribbleBot\bin\Release\net6.0-windows\publish\ScribbleBot.exe
-C:\Users\Juri\source\repos\ScribbleBot\ScribbleBot\bin\Release\net6.0-windows\publish\ScribbleBot.dll
-C:\Users\Juri\source\repos\ScribbleBot\ScribbleBot\bin\Release\net6.0-windows\publish\ScribbleBot.deps.json
-C:\Users\Juri\source\repos\ScribbleBot\ScribbleBot\bin\Release\net6.0-windows\publish\ScribbleBot.runtimeconfig.json
-C:\Users\Juri\source\repos\ScribbleBot\ScribbleBot\bin\Release\net6.0-windows\publish\ScribbleBot.pdb
+C:\Users\Juri\source\repos\ScribbleBot\ScribbleBot\bin\Release\net6.0-windows\publish\SkribblBot.exe
+C:\Users\Juri\source\repos\ScribbleBot\ScribbleBot\bin\Release\net6.0-windows\publish\SkribblBot.dll
+C:\Users\Juri\source\repos\ScribbleBot\ScribbleBot\bin\Release\net6.0-windows\publish\SkribblBot.deps.json
+C:\Users\Juri\source\repos\ScribbleBot\ScribbleBot\bin\Release\net6.0-windows\publish\SkribblBot.runtimeconfig.json
+C:\Users\Juri\source\repos\ScribbleBot\ScribbleBot\bin\Release\net6.0-windows\publish\SkribblBot.pdb
 C:\Users\Juri\source\repos\ScribbleBot\ScribbleBot\bin\Release\net6.0-windows\publish\Newtonsoft.Json.dll
 C:\Users\Juri\source\repos\ScribbleBot\ScribbleBot\bin\Release\net6.0-windows\publish\WebDriver.Support.dll
 C:\Users\Juri\source\repos\ScribbleBot\ScribbleBot\bin\Release\net6.0-windows\publish\WebDriver.dll
